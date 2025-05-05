@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Penicillin",
+    "class": "Beta-lactam",
+    "spectrum": "Narrow (mostly Gram-positive)",
+    "mechanism": "Inhibits cell wall synthesis",
+    "resistance": "Beta-lactamases"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "class": "Fluoroquinolone",
+    "spectrum": "Broad-spectrum",
+    "mechanism": "Inhibits DNA gyrase and topoisomerase IV",
+    "resistance": "Mutations in gyrA and efflux pumps"
+  },
+  {
+    "name": "Vancomycin",
+    "class": "Glycopeptide",
+    "spectrum": "Gram-positive only",
+    "mechanism": "Inhibits cell wall synthesis (binds D-Ala-D-Ala)",
+    "resistance": "Modification of target site (D-Ala-D-Lac)"
+  }
+]
